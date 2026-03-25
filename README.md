@@ -1,3 +1,5 @@
+![Banner](https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif)
+
 <h1 align="center">Hi 👋, I'm Ranjit Kumar Sahoo</h1>
 <h3 align="center">🚀 AI/ML Engineer | Full Stack Developer</h3>
 
@@ -91,7 +93,7 @@
 
 ## 🚀 Recruiter Section
 
-> 💡 Looking for an **AI/ML Engineer / SDE Intern / Full Stack Developer**  
+> 💡 Looking for an **AI/ML Engineer / Data Scientist / Full Stack Developer / SDE Role / Cloud Opportunities**  
 > 📬 Open to opportunities & impactful projects  
 
 ---
@@ -101,7 +103,7 @@
 > I don’t just write code… I build things that **actually solve problems 🚀**
 
 ---
-
+![Banner](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 <p align="center">
 🔥 Thanks for visiting my profile 🔥
 </p>
