@@ -102,8 +102,9 @@
 > I don’t just write code… I build things that **actually solve problems 🚀**
 
 ---
-![Banner](https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahooranjitlipun)
+<img align="center" alt="Coding" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif"/>
+
 <p align="center">
 🔥 Thanks for visiting my profile 🔥
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahooranjitlipun)
 </p>
