@@ -1,53 +1,204 @@
-![Banner](https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ranjit Kumar Sahoo | Portfolio</title>
 
-<h1 align="center">Hi 👋, I'm RANJIT KUMAR SAHOO</h1>
-<h3 align="center">AI/ML Engineer | Full Stack Developer </h3>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
 
----
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
 
+body {
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    background: linear-gradient(-45deg,#0f2027,#203a43,#2c5364,#000);
+    background-size:400% 400%;
+    animation: gradient 10s ease infinite;
+}
 
-## 🚀 About Me
+@keyframes gradient {
+    0% {background-position:0%}
+    50% {background-position:100%}
+    100% {background-position:0%}
+}
 
-- 🎓 B.Tech CSE | CGPA 9.91  
-- 🤖 Generative AI | Machine Learning | Data Science  
-- 🌐 Full Stack Developer  
-- ☁️ Agile & Cloud Trainee – Broadridge  
-- 🧠 Amazon ML Summer School 2025  
-- 🏆 Code for Good 2025 – Top 3 Team Leader  
+.container {
+    width:90%;
+    margin:auto;
+    padding:30px 0;
+}
 
----
+h1 {
+    font-family:'Orbitron';
+    font-size:3rem;
+    color:#00ffff;
+}
 
-## ⚡ Tech Stack
+.glow {
+    color:#00ffff;
+    text-shadow:0 0 10px #00ffff;
+}
 
-💻 C | C++ | Java | Python | JavaScript | MySQL  
-🌐 HTML | CSS | React | jQuery  
-⚙ Node.js | Express.js  
-🛠 Git | GitHub | VS Code | VirtualBox  
-🧠 ML | Generative AI | DBMS | OS | CN | Data Mining  
+.section {
+    margin:40px 0;
+    padding:20px;
+    border-radius:15px;
+    background:rgba(255,255,255,0.08);
+    backdrop-filter:blur(12px);
+}
 
----
-## 🌍 Connect with me
+button {
+    padding:10px 20px;
+    border:none;
+    border-radius:8px;
+    background:#00ffff;
+    cursor:pointer;
+}
 
-[LinkedIn](https://www.linkedin.com/in/ranjit-kumar-sahoo-aa4879280/)
+/* typing */
+.typing {
+    border-right:2px solid #00ffff;
+    white-space:nowrap;
+    overflow:hidden;
+    width:0;
+    animation: typing 3s steps(30,end) forwards;
+}
+@keyframes typing {
+    to { width:100% }
+}
 
-[LeetCode](https://leetcode.com/u/SAHOORANJITLIPUN/)
+/* game */
+.game {
+    display:grid;
+    grid-template-columns:repeat(3,100px);
+    gap:10px;
+    justify-content:center;
+}
+.cell {
+    height:100px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#111;
+    font-size:2rem;
+    cursor:pointer;
+}
 
-[GeeksforGeeks](https://www.geeksforgeeks.org/profile/sahooranjitlipungfg)
+/* chatbot */
+.chatbox {
+    height:200px;
+    overflow:auto;
+    background:#111;
+    padding:10px;
+}
+input {
+    width:80%;
+    padding:10px;
+}
+</style>
+</head>
 
----
+<body>
 
-## 📊 GitHub Stats
+<div class="container">
 
-![Ranjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahooranjitlipun&show_icons=true&theme=tokyonight)
+<!-- HERO -->
+<h1>Hi 👋 I'm <span class="glow">Ranjit Kumar Sahoo</span></h1>
+<h2 class="typing">AI/ML Engineer | Full Stack Developer</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahooranjitlipun&layout=compact&theme=tokyonight)
+<!-- ABOUT -->
+<div class="section">
+<h2>🚀 About Me</h2>
+<p>CGPA 9.91 | Generative AI | Cloud | Hackathon Winner</p>
+<a href="#"><button>📄 Download Resume</button></a>
+</div>
 
----
+<!-- SKILLS -->
+<div class="section">
+<h2>⚡ Tech Stack</h2>
+<p>Python | Java | C++ | React | Node | ML | AWS</p>
+</div>
 
-## 🐍 Contribution Snake
+<!-- GITHUB -->
+<div class="section">
+<h2>📊 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=sahooranjitlipun&show_icons=true&theme=tokyonight" width="100%">
+</div>
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<!-- MUSIC -->
+<div class="section">
+<h2>🎵 Music</h2>
+<iframe style="border-radius:12px" 
+src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M" 
+width="100%" height="150"></iframe>
+</div>
 
+<!-- GAME -->
+<div class="section">
+<h2>🎮 Mini Game</h2>
+<div class="game" id="game"></div>
+</div>
 
-## Good Bye !
-<img align="center" alt="Coding" width="380" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105"/>
+<!-- CHATBOT -->
+<div class="section">
+<h2>🤖 Ask Me Anything</h2>
+<div class="chatbox" id="chat"></div>
+<input id="msg" placeholder="Ask about Ranjit...">
+<button onclick="send()">Send</button>
+</div>
+
+<!-- CONTACT -->
+<div class="section">
+<h2>📬 Contact Me</h2>
+<p>Email: yourmail@gmail.com</p>
+<p><a href="https://www.linkedin.com/">LinkedIn</a></p>
+</div>
+
+</div>
+
+<script>
+
+/* GAME */
+let board=["","","","","","","","",""];
+let current="X";
+const game=document.getElementById("game");
+
+board.forEach((_,i)=>{
+ let cell=document.createElement("div");
+ cell.classList.add("cell");
+ cell.onclick=()=>move(i,cell);
+ game.appendChild(cell);
+});
+
+function move(i,cell){
+ if(board[i]==""){
+  board[i]=current;
+  cell.innerText=current;
+  current=current=="X"?"O":"X";
+ }
+}
+
+/* CHATBOT */
+function send(){
+ let input=document.getElementById("msg");
+ let chat=document.getElementById("chat");
+
+ let user=input.value;
+ chat.innerHTML+="<p>👤 "+user+"</p>";
+
+ let reply="I'm Ranjit's AI assistant 🤖. He is strong in AI, ML, and Full Stack.";
+
+ if(user.toLowerCase().includes("skills")){
+  reply="Python, React, ML, Cloud ☁️";
+ }
+
+ chat.innerHTML+="<p>🤖 "+reply+"</p>";
+ input.value="";
+}
+
+</script>
+
+</body>
+</html>
