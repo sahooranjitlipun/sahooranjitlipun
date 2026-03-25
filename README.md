@@ -1,19 +1,10 @@
-![Banner](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
+![Banner](https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif)
 
 <h1 align="center">Hi 👋, I'm RANJIT KUMAR SAHOO</h1>
 <h3 align="center">AI/ML Engineer | Full Stack Developer </h3>
 
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif"/>
-
 ---
 
-## 🐈 Black Cat Mode ON
-
-<p align="left">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -56,3 +47,7 @@
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+## Good Bye !
+<img align="center" alt="Coding" width="380" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105"/>
