@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm RANJIT KUMAR SAHOO</h1>
-<h3 align="center">AI/ML Engineer | Full Stack Developer | GATE 2026 Aspirant</h3>
+![Banner](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z0a2J5b3d4dTRpM3B1eW5qbnQ2c2l6b3Q1Y2E5ZzZ3N3g2ZzF6aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+<h1 align="center">Hi 👋, I'm RANJIT KUMAR SAHOO</h1>
+<h3 align="center">AI/ML Engineer | Full Stack Developer </h3>
+
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif"/>
+
+---
+
+## 🐈 Black Cat Mode ON
+
+<p align="left">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
 </p>
 
 ---
@@ -20,23 +28,13 @@
 
 ## ⚡ Tech Stack
 
-### 💻 Languages
-C • C++ • Java • Python • JavaScript • MySQL
-
-### 🌐 Frontend
-HTML • CSS • React • jQuery
-
-### ⚙ Backend
-Node.js • Express.js
-
-### 🛠 Tools
-Git • GitHub • VS Code • VirtualBox
-
-### 🧠 Specialization
-Machine Learning • Generative AI • Data Mining • DBMS • OS • CN
+💻 C | C++ | Java | Python | JavaScript | MySQL  
+🌐 HTML | CSS | React | jQuery  
+⚙ Node.js | Express.js  
+🛠 Git | GitHub | VS Code | VirtualBox  
+🧠 ML | Generative AI | DBMS | OS | CN | Data Mining  
 
 ---
-
 ## 🌍 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/ranjit-kumar-sahoo-aa4879280/)
