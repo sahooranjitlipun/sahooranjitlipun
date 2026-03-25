@@ -10,7 +10,7 @@
 - 🤖 Generative AI | Machine Learning | Data Science
 - ☁️ Agile & Cloud Trainee – Broadridge
 - 🧠 Amazon ML Summer School 2025
-- 🏆 Code for Good 2025 – Top 3 Team Leader
+- 🏆 Code for Good 2025 – Runner-Up
 
 ---
 
@@ -102,9 +102,11 @@
 > I don’t just write code… I build things that **actually solve problems 🚀**
 
 ---
-<img align="center" alt="Coding" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif"/>
+<img align="center" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif"/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahooranjitlipun)
 
 <p align="center">
 🔥 Thanks for visiting my profile 🔥
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahooranjitlipun)
+
 </p>
