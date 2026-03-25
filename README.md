@@ -1,10 +1,9 @@
-![Banner](https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif)
-
+![Banner](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 <h1 align="center">Hi 👋, I'm Ranjit Kumar Sahoo</h1>
 <h3 align="center">🚀 AI/ML Engineer | Full Stack Developer</h3>
 
 ---
-
+![loading](https://github.githubassets.com/images/spinners/octocat-spinner-64.gif)
 ## 🌌 About Me
 
 - 🎓 B.Tech CSE | **CGPA 9.91**
@@ -103,7 +102,8 @@
 > I don’t just write code… I build things that **actually solve problems 🚀**
 
 ---
-![Banner](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
+![Banner](https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahooranjitlipun)
 <p align="center">
 🔥 Thanks for visiting my profile 🔥
 </p>
